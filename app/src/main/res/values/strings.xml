@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sun Island</string>
+    <string name="island_service_channel">Sun Island</string>
+    <string name="island_service_description">Keeps your selected solar countdown visible.</string>
+    <string name="accessibility_service_label">Sun Island lock-screen overlay</string>
+    <string name="accessibility_service_description">Allows the Sun Island pill or notch to be drawn on top of the lock screen. The service only tracks its own connection state and reads no screen content.</string>
+</resources>
